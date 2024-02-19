@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My questioning of universities sparked my initial interest in empirical studies. I studied Chinese language and literature in my first year, which represents the most difficult reading tasks of Chinese humanities majors. Despite investing significant time in texts dating back thousands of years, I discovered their disconnection from everyday life. I aspire to enhance my understanding of society and change it. So I turned my attention to social science, especially sociology. My passion and potential led me to be approved by the committee to switch major into sociology. I have proven the committee's vision: In every semester starting from the 21-22-3 semester, I achieved a GPA above 3.8, ranking high in the top 5%.
+My research interest underwent two dramatic changes before shifting towards quantitative sociology: the first from natural sciences to social sciences, and the second from theory to empirical research. I look forward to mastering and developing certain methods, attempting to transform the knowledge of sociology into a contribution to society, and ultimately finding my own location outside of universities. 
+I get the highest GPA in the Department of Sociology and have gone through some awesome research experience. More detailed information can be found on my CV. I have been trying to submit and publish my research findings recently.
 
 My research interest includes historical sociology, social stratification and social network analysis.
 
@@ -36,7 +37,8 @@ My research interest includes historical sociology, social stratification and s
 - *2018.09 - 2021.06*, Hengshui No.1 Senior High School, Hengshui.
 
 # 💬 Invited Talks
-- *2021.02*, Chemical Knowledge in Biology, Chemy Lab [[Record]](https://riskalab.pku.edu.cn/en/team/student_team/index.htm). 
+- *2021.02*, Chemical Knowledge in Biology, Chemy Lab [Record](https://riskalab.pku.edu.cn/en/team/student_team/index.htm). 
 
 # 💻 Internships
-- *2023.03 - 2024.02 (now)*, PKU Analytics Lab for Global Risk Politics, China [[Record]](https://www.bilibili.com/video/BV1uU4y1s7U2/)https://www.bilibili.com/video/BV1uU4y1s7U2/.
+- *2023.07 - 2023.08*, Short-term Consultant, Jiangyin.
+- *2023.03 - 2024.02 (now)*, PKU Analytics Lab for Global Risk Politics, Beijing [Record](https://www.bilibili.com/video/BV1uU4y1s7U2/).
